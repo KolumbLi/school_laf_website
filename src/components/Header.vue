@@ -1,6 +1,8 @@
 <template>
   <div>
-    <h1>home</h1>
+    <div>后台管理</div>
+    <div></div>
+    <div>下拉框</div>
   </div>
 </template>
 

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div style="width:10px;">
     <div>后台管理</div>
     <div></div>
     <div>下拉框</div>
